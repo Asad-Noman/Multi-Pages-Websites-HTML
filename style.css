@@ -12,7 +12,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #37404a;
 }
 
 ul li {
@@ -29,4 +29,11 @@ ul li a {
 
 ul li a:hover {
   background-color: #111111;
+}
+
+h2{
+  text-align: center;
+}
+h3.copy{
+  text-align: center;
 }
