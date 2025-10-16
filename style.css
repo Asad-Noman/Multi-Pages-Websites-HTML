@@ -37,3 +37,18 @@ h2{
 h3.copy{
   text-align: center;
 }
+.jani{
+  background-color: #37404a;
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+h4.love{
+  text-align: center;
+}
+
+.footercontainer{
+  display: flex;
+  justify-content: center;
+}
