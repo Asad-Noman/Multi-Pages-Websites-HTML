@@ -15,14 +15,14 @@ ul {
   background-color: #37404a;
 }
 
-ul li {
-  float: left;
+#nav>li {
+  float: right;
 }
 
 ul li a {
   display: block;
   color: white;
-  text-align: center;
+  text-align: center; 
   padding: 14px 16px;
   text-decoration: none;
 }
@@ -39,10 +39,11 @@ h3.copy{
 }
 .jani{
   background-color: #37404a;
-  display: block; 
-  margin-left: auto; 
-  margin-right: auto;
-}
+  display: block;
+  text-align: center; 
+  margin-left: 400px; 
+  margin-right: 400px
+ }
 
 h4.love{
   text-align: center;
@@ -52,3 +53,14 @@ h4.love{
   display: flex;
   justify-content: center;
 }
+
+h1.rte{
+  text-align: center;
+  font-size: 30px;
+
+}
+
+h1.rta{
+  text-align: center;
+}
+
