@@ -1,13 +1,9 @@
 body {
   margin: 0;
   padding: 0;
-}
+}        
 
-h2, p {
-  margin: 10px;
-}
-
-ul {
+#nav{
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -16,8 +12,8 @@ ul {
 }
 
 #nav>li {
-  float: right;
-}
+  float: left;
+}                                                         
 
 ul li a {
   display: block;
@@ -31,7 +27,7 @@ ul li a:hover {
   background-color: #111111;
 }
 
-h2{
+h2.rtgb{
   text-align: center;
 }
 h3.copy{
@@ -63,4 +59,29 @@ h1.rte{
 h1.rta{
   text-align: center;
 }
+.mission-list {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+  background-color: white; 
+  
+}
 
+.mission-list li {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+h1.rtd{
+  text-align: center;
+}
+
+.corporate{
+    list-style-type: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+  background-color: white; 
+}
+.corporate li{
+  margin-bottom: 8px;
+  font-size: 16px;
+}
